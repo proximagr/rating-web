@@ -21,7 +21,7 @@ export default {
 body {
   //background-color: #999;
   background-color: #0071c5;
-  line-height: 1;
+  line-height: 2;
 }
 
 html {
